@@ -1,6 +1,7 @@
 <h1 align="center">Hi <img src="wave.gif" alt="wave" width="30"/> , I'm Ahmed Shaikh</h1>
-<h3 align="center">Learning new things everyday!</h3>
 
+ <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=88AEF7&center=true&vCenter=true&width=435&lines=Learning+new+things+everyday!" alt="Typing SVG" /></a></p>
+ 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaikhahmed243&label=Profile%20views&color=0e75b6&style=flat" alt="shaikhahmed243" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shaikhahmed243" alt="shaikhahmed243" /></a> </p>
