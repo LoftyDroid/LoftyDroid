@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ahmed Shaikh</h1>
+<h1 align="center">Hi <img src="wave.gif" alt="wave" width="30"/> , I'm Ahmed Shaikh</h1>
 <h3 align="center">Learning new things everyday!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaikhahmed243&label=Profile%20views&color=0e75b6&style=flat" alt="shaikhahmed243" /> </p>
