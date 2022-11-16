@@ -6,6 +6,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LoftyDroid" alt="LoftyDroid" /></a> </p>
 
+<img align="left" width="155" height="155" src="octocat-1668576394042.png">
+
 - 🌱 I’m currently learning **Python Development**
 
 - 📝 I regularly write articles on [loftydroid](https://dev.to/loftydroid)
@@ -13,7 +15,7 @@
 - 📫 How to reach me **shaikhahmed243@gmail.com**
 
 - ⚡ Fun fact **I think I'm funny**
-
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/loftydroid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="loftydroid" height="30" width="30" /></a>
