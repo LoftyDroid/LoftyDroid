@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LoftyDroid" alt="LoftyDroid" /></a> </p>
 
-<img align="left" width="155" height="155" src="octocat-1668576394042.png">
+<img align="left" width="350" height="350" src="octocat-1668576394042.png">
 
 - 🌱 I’m currently learning **Python Development**
 
