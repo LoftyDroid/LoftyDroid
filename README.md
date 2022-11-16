@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **shaikhahmed243@gmail.com**
 
-- ⚡ Fun fact **I read manga**
+- ⚡ Fun fact, **I read manga**
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
