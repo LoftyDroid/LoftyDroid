@@ -27,8 +27,9 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="35" height="35"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="35" height="35"/> </a> <a href="https://dart.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="35" height="35"/> </a> <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="35" height="35"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="37" height="37"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LoftyDroid&show_icons=true&locale=en&layout=compact" alt="LoftyDroid" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LoftyDroid&show_icons=true&locale=en&layout=compact&langs_count=6&theme=tokyonight" alt="LoftyDroid" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LoftyDroid&show_icons=true&locale=en" alt="LoftyDroid" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=LoftyDroid&show_icons=true&locale=en&theme=tokyonight" alt="LoftyDroid" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LoftyDroid&" alt="LoftyDroid" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LoftyDroid&theme=tokyonight" alt="LoftyDroid" /></p>
+
