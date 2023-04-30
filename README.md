@@ -4,7 +4,7 @@
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LoftyDroid&label=Profile%20views&color=0e75b6&style=flat" alt="LoftyDroid" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LoftyDroid" alt="LoftyDroid" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LoftyDroid&theme=onedark" alt="LoftyDroid" /></a> </p>
 
 <img align="left" width="330" height="330" src="octocat-1668576394042.png">
 
